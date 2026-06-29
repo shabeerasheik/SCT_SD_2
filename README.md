@@ -145,23 +145,22 @@ java task2
 
 ### 🏠 Home Screen
 
-(Add Screenshot)
-
-### 🎮 Guessing
-
-(Add Screenshot)
+<img width="595" height="504" alt="HOME" src="https://github.com/user-attachments/assets/ca620755-2ce5-4a8f-8b1d-3f9a08cb8d3b" />
 
 ### ⬆ Too High
 
-(Add Screenshot)
+<img width="690" height="599" alt="TO HIGH" src="https://github.com/user-attachments/assets/5aa7128f-065c-4d7f-a847-11d9516c9889" />
+
 
 ### ⬇ Too Low
 
-(Add Screenshot)
+<img width="595" height="504" alt="TO LOW" src="https://github.com/user-attachments/assets/5afa4ca7-0d4a-4bcf-986c-a2c32ab6a919" />
+
 
 ### 🎉 Success
 
-(Add Screenshot)
+<img width="600" height="479" alt="NUMBER GUESSED" src="https://github.com/user-attachments/assets/d7e261d4-ffae-4d61-9037-37a07012fccc" />
+
 
 ---
 
